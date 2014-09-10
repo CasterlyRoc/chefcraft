@@ -1,2 +1,2 @@
-cheftcraft - development phase
+chefcraft - development phase
 ==========
